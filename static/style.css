@@ -42,3 +42,17 @@ body {
     border-radius: 8px;
     border: 1px solid #ccc;
 }
+body {
+  background: linear-gradient(145deg, #1e293b, #0f172a);
+  color: #f1f5f9;
+  min-height: 100vh;
+  text-align: center;
+  padding: 50px;
+  font-family: 'Poppins', sans-serif;
+}
+.card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
