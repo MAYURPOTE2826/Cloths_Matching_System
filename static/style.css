@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(135deg, #e3f2fd, #ffffff);
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.btn-primary {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3);
+}
+
+.result {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+/* Color Preview Boxes */
+.color-box {
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    border: 2px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.color-box:hover {
+    transform: scale(1.1);
+}
+.color-box {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}

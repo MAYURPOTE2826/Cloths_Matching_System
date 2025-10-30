@@ -1,0 +1,121 @@
+shirt_color_name,shirt_hex,pant_color_name,pant_hex,accessory_suggestion,style_type
+Cyan,#00FFFF,Mint,#98FF98,Black cap,Festive
+Brown,#A52A2A,Hot Pink,#FF69B4,Gold chain,Traditional
+Black,#000000,Sky Blue,#87CEEB,Black sunglasses,Party
+Dark Gray,#A9A9A9,Magenta,#FF00FF,Leather wallet,Funky
+Pink,#FFC0CB,Hot Pink,#FF69B4,White sneakers,Formal
+Maroon,#800000,Coral,#FF7F50,White hat,Party
+Brown,#A52A2A,Royal Blue,#4169E1,White hat,Trendy
+Sky Blue,#87CEEB,Orange,#FFA500,Silver ring,Festive
+Dark Gray,#A9A9A9,Pink,#FFC0CB,Black sunglasses,Party
+Blue,#0000FF,Peach,#FFDAB9,Silver bracelet,Trendy
+Olive,#808000,Mint,#98FF98,Brown sandals,Funky
+Dark Gray,#A9A9A9,Purple,#800080,Black cap,Trendy
+Beige,#F5F5DC,Royal Blue,#4169E1,Pearl earrings,Traditional
+Gray,#808080,Blue,#0000FF,White goggles,Festive
+Dark Gray,#A9A9A9,Hot Pink,#FF69B4,Silver necklace,Traditional
+Cyan,#00FFFF,Gold,#FFD700,Pearl earrings,Party
+Royal Blue,#4169E1,Gray,#808080,Silver necklace,Semi-formal
+White,#FFFFFF,Maroon,#800000,Blue tie,Festive
+Khaki,#C3B091,Gray,#808080,Silver necklace,Semi-formal
+Olive,#808000,Beige,#F5F5DC,White goggles,Funky
+Khaki,#C3B091,Hot Pink,#FF69B4,White hat,Funky
+Mustard,#FFDB58,Coral,#FF7F50,Red scarf,Traditional
+Olive,#808000,Navy Blue,#000080,Silver bracelet,Traditional
+Beige,#F5F5DC,Sky Blue,#87CEEB,White sneakers,Festive
+Khaki,#C3B091,Dark Gray,#A9A9A9,White sneakers,Festive
+Black,#000000,Lavender,#E6E6FA,Pearl earrings,Festive
+Khaki,#C3B091,Sky Blue,#87CEEB,Leather wallet,Traditional
+Chocolate,#7B3F00,Dark Gray,#A9A9A9,Black cap,Formal
+Gray,#808080,Brown,#A52A2A,White goggles,Trendy
+Mustard,#FFDB58,Pink,#FFC0CB,Brown sandals,Casual
+Sky Blue,#87CEEB,Green,#008000,Silver ring,Festive
+White,#FFFFFF,Beige,#F5F5DC,Silver bracelet,Trendy
+White,#FFFFFF,Brown,#A52A2A,Silver watch,Formal
+Khaki,#C3B091,Orange,#FFA500,Red scarf,Funky
+Sky Blue,#87CEEB,Black,#000000,Brown loafers,Semi-formal
+Sky Blue,#87CEEB,Orange,#FFA500,White goggles,Funky
+White,#FFFFFF,Yellow,#FFFF00,Red scarf,Festive
+Purple,#800080,Orange,#FFA500,Brown sandals,Casual
+Olive,#808000,Cyan,#00FFFF,White goggles,Semi-formal
+Violet,#EE82EE,Cream,#FFFDD0,Silver ring,Elegant
+Green,#008000,Sky Blue,#87CEEB,Pearl earrings,Funky
+Mustard,#FFDB58,Pink,#FFC0CB,Red scarf,Elegant
+Red,#FF0000,Violet,#EE82EE,White hat,Party
+Mustard,#FFDB58,Violet,#EE82EE,Silver watch,Party
+White,#FFFFFF,Maroon,#800000,Tan watch,Trendy
+Cyan,#00FFFF,Mustard,#FFDB58,White sneakers,Semi-formal
+Yellow,#FFFF00,Chocolate,#7B3F00,Black sunglasses,Elegant
+White,#FFFFFF,Teal,#008080,Silver necklace,Funky
+Red,#FF0000,Teal,#008080,Leather wallet,Elegant
+Mint,#98FF98,Green,#008000,Pearl earrings,Trendy
+Forest Green,#228B22,Gold,#FFD700,Leather belt,Festive
+Maroon,#800000,Blue,#0000FF,Brown loafers,Semi-formal
+Violet,#EE82EE,Olive,#808000,Gold ring,Party
+Light Gray,#D3D3D3,Gray,#808080,Silver watch,Funky
+Chocolate,#7B3F00,Pink,#FFC0CB,Black sunglasses,Formal
+Gray,#808080,Blue,#0000FF,Black cap,Trendy
+Hot Pink,#FF69B4,Beige,#F5F5DC,White goggles,Casual
+Coral,#FF7F50,White,#FFFFFF,Gold chain,Formal
+Teal,#008080,Forest Green,#228B22,Pearl earrings,Elegant
+Pink,#FFC0CB,Chocolate,#7B3F00,Red scarf,Casual
+Pink,#FFC0CB,Mint,#98FF98,Silver ring,Semi-formal
+Magenta,#FF00FF,Black,#000000,White goggles,Semi-formal
+Blue,#0000FF,Chocolate,#7B3F00,Silver bracelet,Casual
+Gray,#808080,Gold,#FFD700,Silver watch,Party
+Red,#FF0000,Chocolate,#7B3F00,Brown shoes,Trendy
+Hot Pink,#FF69B4,Royal Blue,#4169E1,Pearl earrings,Traditional
+Gold,#FFD700,Violet,#EE82EE,Silver necklace,Trendy
+Navy Blue,#000080,Maroon,#800000,Black sunglasses,Festive
+Cyan,#00FFFF,Black,#000000,White hat,Trendy
+Yellow,#FFFF00,Chocolate,#7B3F00,White goggles,Semi-formal
+Black,#000000,Maroon,#800000,Brown loafers,Party
+White,#FFFFFF,Peach,#FFDAB9,Silver necklace,Party
+Yellow,#FFFF00,Red,#FF0000,Gold chain,Festive
+Royal Blue,#4169E1,Mint,#98FF98,White goggles,Funky
+White,#FFFFFF,Magenta,#FF00FF,White sneakers,Trendy
+Olive,#808000,Navy Blue,#000080,White hat,Formal
+Mustard,#FFDB58,Pink,#FFC0CB,Black sunglasses,Funky
+Hot Pink,#FF69B4,Dark Gray,#A9A9A9,Brown loafers,Formal
+Royal Blue,#4169E1,Dark Gray,#A9A9A9,Gold ring,Elegant
+Brown,#A52A2A,Orange,#FFA500,Silver bracelet,Casual
+Olive,#808000,White,#FFFFFF,Black cap,Festive
+Gray,#808080,Green,#008000,Pearl earrings,Elegant
+Magenta,#FF00FF,Light Gray,#D3D3D3,Black cap,Festive
+Red,#FF0000,Lavender,#E6E6FA,Gold chain,Traditional
+Light Gray,#D3D3D3,Blue,#0000FF,Tan watch,Formal
+Purple,#800080,Maroon,#800000,Tan watch,Trendy
+White,#FFFFFF,Violet,#EE82EE,Leather belt,Casual
+Green,#008000,Navy Blue,#000080,White goggles,Party
+Sky Blue,#87CEEB,Lavender,#E6E6FA,Tan watch,Elegant
+Olive,#808000,Purple,#800080,Silver necklace,Funky
+Green,#008000,Purple,#800080,Gold ring,Traditional
+Cream,#FFFDD0,Teal,#008080,Brown loafers,Trendy
+Sky Blue,#87CEEB,Royal Blue,#4169E1,Blue tie,Semi-formal
+Khaki,#C3B091,Pink,#FFC0CB,White hat,Traditional
+Coral,#FF7F50,Lavender,#E6E6FA,Red scarf,Party
+Green,#008000,Forest Green,#228B22,Silver ring,Semi-formal
+Blue,#0000FF,Sky Blue,#87CEEB,Pearl earrings,Semi-formal
+Cyan,#00FFFF,Hot Pink,#FF69B4,Black sunglasses,Funky
+Forest Green,#228B22,Green,#008000,Pearl earrings,Party
+Light Gray,#D3D3D3,Peach,#FFDAB9,Brown sandals,Casual
+Cream,#FFFDD0,Coral,#FF7F50,Tan watch,Traditional
+Blue,#0000FF,Navy Blue,#000080,Silver watch,Traditional
+Khaki,#C3B091,Magenta,#FF00FF,Silver ring,Funky
+Coral,#FF7F50,Light Gray,#D3D3D3,Brown shoes,Festive
+Pink,#FFC0CB,Yellow,#FFFF00,Silver watch,Elegant
+Red,#FF0000,Black,#000000,Leather wallet,Elegant
+Brown,#A52A2A,Magenta,#FF00FF,Leather wallet,Trendy
+Green,#008000,Yellow,#FFFF00,Leather belt,Trendy
+Peach,#FFDAB9,Orange,#FFA500,Silver necklace,Funky
+Light Gray,#D3D3D3,Royal Blue,#4169E1,Silver necklace,Trendy
+Violet,#EE82EE,Blue,#0000FF,Red scarf,Party
+Dark Gray,#A9A9A9,Forest Green,#228B22,Blue tie,Party
+Red,#FF0000,Magenta,#FF00FF,Leather wallet,Elegant
+Purple,#800080,Green,#008000,Leather belt,Traditional
+Violet,#EE82EE,Magenta,#FF00FF,Brown loafers,Festive
+Violet,#EE82EE,Beige,#F5F5DC,Brown sandals,Trendy
+Brown,#A52A2A,Red,#FF0000,Gold ring,Party
+Brown,#A52A2A,Black,#000000,Gold chain,Festive
+Violet,#EE82EE,Pink,#FFC0CB,Leather wallet,Festive
+Gold,#FFD700,Khaki,#C3B091,Gold chain,Elegant
